@@ -1,0 +1,32 @@
+[
+    {
+        "nom" : "avocats",
+        "origine" : "Peru",
+        "prix" : 1.2
+    },
+    {
+        "nom" : "dattes",
+        "origine" : "Maroc",
+        "prix" : 2.2
+    },
+    {
+        "nom" : "bananes",
+        "origine" : "Peru",
+        "prix" : 1.99
+    },
+    {
+        "nom" : "citron_verts",
+        "origine" : "Peru",
+        "prix" : 2.5
+    },
+    {
+        "nom" : "mangues",
+        "origine" : "Peru",
+        "prix" : 4.44
+    },
+    {
+        "nom" : "clementines" ,
+        "origine" : "Maroc",
+        "prix" : 1.5
+    }
+]

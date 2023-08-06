@@ -1,0 +1,122 @@
+
+body {
+    height:100vh;
+}
+
+.bouton {
+    background-color: #efb03a;
+    border-color: rgb(203, 158, 137);
+    font-family: "Poppins", sans-serif;
+}
+.bouton:hover {
+    background-color: #e92727;
+    border-color: rgb(171, 153, 130);
+}
+
+
+/* ######################## HEADER - MENU - LOGO ######################## */
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+#navbarNav {
+    display: flex;
+    justify-content: right;
+    padding-right: 20px;
+    font-size: 1.1rem;
+    }
+#navbarNav a {
+        color: rgb(255, 255, 255);
+        font-weight:bold;
+} 
+#navbarNav a:hover {
+    color: rgb(56, 1, 1);
+    text-decoration: underline;
+} 
+#navbarNav a:visited {
+    color: #ffffff;
+} 
+
+.titre {
+    font-family: "Poppins", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding-left: 30px;
+}
+.navbar {
+    background-color:#efb03a;    
+}
+
+/* #######################  MAIN ######################## */
+
+.soustitre {
+    
+        font-family: "Poppins", sans-serif;
+        color: orange;
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+        padding: 30px 30px 5px 30px;
+
+             
+    }
+
+/* ####################### FORMULAIRE LOGIN.PHP ######################## */
+    .formbase{
+      width:70%;
+      display:block;
+      justify-content: center;
+      padding-left: 25rem;
+     
+    }
+/* ####################### PANIER ######################## */
+
+    .dropdown:hover > #cart-dropdown{
+        display: block;
+    }
+
+    
+/* ####################### FRUITS GESTION_FRUITS.PHP ######################## */
+h2 {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.8rem;
+    color:orange;
+       
+}
+.h2p {
+    padding: 15px;
+}
+.panier {
+   color:orange;
+}
+
+.bonjour {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+   
+    }
+
+.card {
+    border: 0px;
+    padding: 20px;
+}
+
+
+/* ####################### FOOTER ######################## */
+    .titrefooter {
+        font-family: "Poppins", sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 1rem;
+        display: flex;
+        justify-content: center;
+        padding-left: 30px;
+    }
+    .fruits {
+        width: 80%;
+        align-items: center;
+    }
