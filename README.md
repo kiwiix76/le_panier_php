@@ -1,3 +1,7 @@
+Démo en vidéo
+
+https://youtu.be/lf7OxP8t1cY
+
 Partie 1 - Gestion du login
 
 Dans cette partie on utilise le formulaire pour gerer un équivalent du login. Le nom d'utilisateur est rentré via une requete de type POST , le script vérifie donc cette clé et la sauvegarde.
